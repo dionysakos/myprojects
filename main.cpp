@@ -1,7 +1,7 @@
 #include <iostream>  
-using namespace std;
+ //test
 
 int main() {
-    cout << "Hello, I bought a MacBook" << endl; 
+    std:: cout << "Hello, I bought a MacBook" << std:: endl; 
     return 0; 
 }
